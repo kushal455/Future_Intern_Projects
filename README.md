@@ -1,4 +1,4 @@
-Future Intern Projects 🚀
+#Future Intern Projects 🚀
 
 This repository contains the projects I completed during my Data Analytics Internship at Future Intern.
 Each project helped me enhance my skills in data analysis, visualization, and storytelling with data using tools like Excel, Power BI, Python, Pandas, Matplotlib, and Seaborn.
